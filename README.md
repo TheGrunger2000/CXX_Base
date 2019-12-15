@@ -1,1 +1,1 @@
-# This is going to be my game (lol)
+# It's just for studying the C++ (If it's possible)
