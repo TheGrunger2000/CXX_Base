@@ -1,9 +1,10 @@
 #include <iostream>
-
+#include <cstdlib>
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
-	cout << "\nHello, My Game\n" << endl;
-	return 0;
+    cout << "Hello, World!" << endl;
+    system("pause");
+    return 0;
 }
